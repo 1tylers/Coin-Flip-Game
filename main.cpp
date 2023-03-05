@@ -1,16 +1,3 @@
-/***
- CSCI 240       Program 1       Fall 2022
- 
- Programmer: Tyler Stenberg
- 
- Section: Classes
- 
- Date Due: November 11, 2022
- 
- Purpose: A game in which you flips coins to try and get a total value of exactly 1.00. If not you lose.
- ***/
-
-
 
 // Include Libraries
 #include <iostream>
